@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1431188750 source:c:\users\evren\desktop\cs201homeworks\homework3\src\cdll.cpp
+	"CDLL.h"
+	<iostream>
+	"LL.h"
+
+1431177811 c:\users\evren\desktop\cs201homeworks\homework3\include\cdll.h
+	"LL.h"
+	<iostream>
+
+1431187105 source:c:\users\evren\desktop\cs201homeworks\homework3\src\paperrepository.cpp
+	"PaperRepository.h"
+	<iostream>
+
+1431177811 c:\users\evren\desktop\cs201homeworks\homework3\include\paperrepository.h
+	<iostream>
+	"CDLL.h"
+
+1431188622 source:c:\users\evren\desktop\cs201homeworks\homework3\src\ll.cpp
+	"LL.h"
+	<iostream>
+
+1431186884 c:\users\evren\desktop\cs201homeworks\homework3\include\ll.h
+	<iostream>
+
+1431184980 source:c:\users\evren\desktop\cs201homeworks\homework3\src\papermain.cpp
+	<iostream>
+	"PaperRepository.h"
+
